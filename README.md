@@ -32,6 +32,9 @@ Una herramienta profesional de hackeo para Dota 2, creada por @ZekAtwiN12.
 ### Instalación
 ```bash
 # Clonar o descargar el archivo
+
+git clone https://github.com/NmsK122/DotaHacks1.git 
+
 # No requiere dependencias adicionales
 ```
 
